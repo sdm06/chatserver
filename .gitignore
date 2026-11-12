@@ -1,0 +1,5 @@
+bin/
+*.pem
+*.test
+coverage.out
+.DS_Store
