@@ -1,0 +1,6 @@
+bin/
+.git/
+.gitignore
+*.pem
+README.md
+docs/
